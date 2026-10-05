@@ -5,6 +5,10 @@
 // CÓMO USARLO: mueve el mouse de izquierda a derecha para cambiar el BPM.
 // ============================================================
 
+
+Hoola guapa que tal ...
+
+
 float bpm = 72;
 float ultimoLatido = 0;
 float angulo = 0;          // ángulo del movimiento circular
