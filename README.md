@@ -1,4 +1,4 @@
-# Taller CMM - Publicaciones (TallcerCMMPub)
+# Taller CMM - Publicaciones (TallerCMMPub)
 
 ¡Bienvenido al repositorio del **Taller CMM - Latidos que Pintan y Suenan: Arte Biológico desde tu Corazón**! Este espacio está diseñado para almacenar, organizar y compartir los materiales, códigos y proyectos desarrollados a lo largo de las distintas sesiones del taller.
 
@@ -52,6 +52,6 @@ Navega a la carpeta de la sesión que deseas revisar, inicia Processing y ejecut
 *   *(Ejemplo: sun.svg, bmp.csv)*
 
 ## ✒️ Autoras
-*   **Diann G** - *Trabajo Inicial / Instructor* - [Perfil de GitHub](https://github.com/Litche57)
-*   **IrariJL** - *Trabajo Inicial / Instructor* - [Perfil de GitHub](https://github.com/IrariJL)
-*   **Nayetzi Baeza** - *Trabajo Inicial / Instructor* - [Perfil de GitHub](https://github.com/pumitapumonpon)
+*   **Diann G** - [Perfil de GitHub](https://github.com/Litche57)
+*   **IrariJL** - [Perfil de GitHub](https://github.com/IrariJL)
+*   **Nayetzi Baeza** - [Perfil de GitHub](https://github.com/pumitapumonpon)
