@@ -1,6 +1,6 @@
 # Taller CMM - Publicaciones (TallcerCMMPub)
 
-¡Bienvenido al repositorio del ** Taller CMM - Latidos que Pintan y Suenan: Arte Biológico desde tu Corazón **! Este espacio está diseñado para almacenar, organizar y compartir los materiales, códigos y proyectos desarrollados a lo largo de las distintas sesiones del taller.
+¡Bienvenido al repositorio del **Taller CMM - Latidos que Pintan y Suenan: Arte Biológico desde tu Corazón**! Este espacio está diseñado para almacenar, organizar y compartir los materiales, códigos y proyectos desarrollados a lo largo de las distintas sesiones del taller.
 
 ## 📋 Estructura del Repositorio
 
