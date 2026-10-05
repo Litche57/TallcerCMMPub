@@ -51,5 +51,5 @@ Navega a la carpeta de la sesión que deseas revisar, inicia Processing y ejecut
 *   *(Ejemplo: file.pde)*
 *   *(Ejemplo: sun.svg, bmp.csv)*
 
-## ✒️ Autor
-*   **Litche57** - *Trabajo Inicial / Instructor* - [Perfil de GitHub](https://github.com/Litche57)
+## ✒️ Autoras
+*   **Diann G - IrariJL - Nayetzi Baeza** - *Trabajo Inicial / Instructor* - [Perfil de GitHub](https://github.com/Litche57)
