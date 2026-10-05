@@ -52,4 +52,6 @@ Navega a la carpeta de la sesión que deseas revisar, inicia Processing y ejecut
 *   *(Ejemplo: sun.svg, bmp.csv)*
 
 ## ✒️ Autoras
-*   **Diann G - IrariJL - Nayetzi Baeza** - *Trabajo Inicial / Instructor* - [Perfil de GitHub](https://github.com/Litche57)
+*   **Diann G** - *Trabajo Inicial / Instructor* - [Perfil de GitHub](https://github.com/Litche57)
+*   **IrariJL** - *Trabajo Inicial / Instructor* - [Perfil de GitHub](https://github.com/IrariJL)
+*   **Nayetzi Baeza** - *Trabajo Inicial / Instructor* - [Perfil de GitHub](https://github.com/pumitapumonpon)
