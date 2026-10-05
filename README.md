@@ -6,11 +6,11 @@
 
 El contenido está dividido por módulos cronológicos y temáticos:
 
-**  M1 Didáctica
+*   **M1 Didáctica**
 *   **Sesión 1**: Esta sesión te proporciona las instrucciones necesarias para introducirte en los ejercicios a realizar.
 *   **Sesión 2**: Aquí se proporciona un ejemplo didáctico para que ejercites el aprendizaje adquirido.
 
-**  M2 Práctica
+*   **M2 Práctica**
 *   **Sesion 3**: Contenido, ejercicios o código base correspondientes a la tercera sesión.
 *   **Sesion 4 sonido**: Recursos, scripts y proyectos enfocados en el procesamiento o gestión de audio.
 *   **Sesion 5 integrador**: Proyecto o actividad integradora final que unifica los conocimientos adquiridos en las sesiones anteriores.
