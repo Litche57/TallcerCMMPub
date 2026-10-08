@@ -6,10 +6,10 @@ del mouse y expulsa vapor al dar click
 
 // Se definen variables de posición, la nave se actualiza cada frame según el mouse
 int px;
-int py
+int py;
 
 void setup() {
-  size(360, );
+  size(760,600 );
 }
 
 void draw() {
@@ -26,14 +26,14 @@ void draw() {
     px = 280;
   }
   if (py < 60) {
-    py =;
+    py =60;
   }
   if (py > 280) {
     py = 280;
   }
 
 
-  int vaporSize = 40;
+  int vaporSize1 = 40;
   int vaporSize2 = 20;
   if (mousePressed) {
     vaporSize1 = 55;

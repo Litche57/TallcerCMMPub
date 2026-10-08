@@ -11,7 +11,7 @@ boolean mostrarCielo = false;
 
 void setup() {
   size(600, 350);
-  fondo = loadImage("");
+  fondo = loadImage("sky.jpg");
 }
 
 void draw() {
