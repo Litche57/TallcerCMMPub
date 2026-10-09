@@ -1,5 +1,5 @@
 // ====================================================================
-// FIGURAS QUE LATEN SEGUN DATOS BPM DE UN ARCHIVO CSV
+// FIGURAS QUE LATEN SEGUN EL BPM DE UN ARCHIVO CSV
 // La figura 1 (roja) late segun los valores de la columna "bpm" del CSV.
 // La figura 2 (azul) sigue con un BPM fijo, como referencia.
 //
@@ -132,7 +132,7 @@ void draw() {
   // >>> CAMBIO en a1: antes era  a1 = TWO_PI * (bpm1 / 60.0) * t;
   // Eso funcionaba con un BPM fijo, pero si el BPM cambia, el angulo
   // "salta" de golpe y la figura se mueve a tirones.
-  // Ahora el angulo se ACUMULA: en cada frame le sumamos un pedacito
+  // Ahora el angulo se ACUMULA: en cada cuadro le sumamos un pedacito
   // (segun el BPM de ese momento y el tiempo transcurrido dt).
   a1 += TWO_PI * (bpm1 / 60.0) * dt;
 

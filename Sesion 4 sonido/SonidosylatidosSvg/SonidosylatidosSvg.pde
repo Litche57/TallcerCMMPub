@@ -75,7 +75,7 @@ void setup() {
   size(640, 360);
   noStroke();
   shapeMode(CENTER);
-  frameRate(60);
+  frameRate(160);
   colorMode(HSB, 360, 100, 100);
 
   figura1 = loadShape("sun.svg");
